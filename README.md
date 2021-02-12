@@ -21,3 +21,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
+
+This assignment was a step from the prework. Using cocoapods, homebrew, and importing packages
+were entirely new iOS fundamentals to me. Syntax problems arose quite often, which stopped
+the flow of progressing through the project. Even though I had a few difficulties, I utilised
+the teaching assistants to help me finish my project. Great learning experience!
